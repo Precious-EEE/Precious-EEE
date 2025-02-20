@@ -19,6 +19,8 @@ Welcome to my GitHub profile! I'm an AI/ML Engineer with expertise in developing
 ### **Programming & AI Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) 
@@ -33,32 +35,11 @@ Welcome to my GitHub profile! I'm an AI/ML Engineer with expertise in developing
 
 ---
 
-## 📚 Featured Projects
-
-### **1️⃣ Drone-Based Maize Tassel Detection** 🛰️🌽
-- Built a **YOLOv5-based object detection** system to identify maize tassels from drone images.
-- **Tech Stack:** `Python` | `OpenCV` | `YOLOv5` | `TensorFlow` | `Flask` | `Power BI`
-🔗 **[GitHub Repo](#)** | **[Live Demo](#)**  
-
-### **2️⃣ Custom LLM for Businesses** 🤖📈
-- Developed a **domain-specific LLM** for AI-driven customer support & data analysis.
-- **Tech Stack:** `Python` | `PyTorch` | `Hugging Face` | `LangChain` | `Vector DB (FAISS, ChromaDB)`
-🔗 **[GitHub Repo](#)** | **[Live Demo](#)**  
-
-### **3️⃣ Leukemia Detection Using Deep Learning** 🏥🩸
-- Created a **CNN-based model** for medical diagnosis of leukemia in blood smear images.
-- **Tech Stack:** `Python` | `TensorFlow` | `CNN` | `OpenCV` | `Streamlit` | `Power BI`
-🔗 **[GitHub Repo](#)** | **[Live Demo](#)**  
-
-🚀 **[View More Projects Here](#)**  
-
----
-
 ## 📊 GitHub Stats & Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Precious-EEE&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Precious-EEE&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Precious-EEE&show_icons=true&theme=dark)  
 
 ---
 
