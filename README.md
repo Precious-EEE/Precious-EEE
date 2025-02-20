@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm an AI/ML Engineer with expertise in developing
 
 ## 📊 GitHub Stats & Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Precious-EEE&theme=dark)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Precious-EEE&theme=dark)](https://github.com/Precious-EEE)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Precious-EEE&layout=compact&theme=dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Precious-EEE&show_icons=true&theme=dark)  
 
