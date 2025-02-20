@@ -63,10 +63,9 @@ Welcome to my GitHub profile! I'm an AI/ML Engineer with expertise in developing
 ---
 
 ## 💡 How to Connect
-📩 **Email:** your@email.com  
-🔗 **LinkedIn:** [Your LinkedIn](#)  
-🐦 **Twitter:** [Your Twitter](#)  
-💼 **Portfolio:** [Your Website](#)  
+📩 **Email:** preciousadekunle33@email.com  
+🔗 **LinkedIn:** [[Your LinkedIn](https://www.linkedin.com/in/adekunleprecious/)](#)  
+
 
 
 <!--
