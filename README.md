@@ -1,5 +1,5 @@
-# Hi there! 👋 I'm Adekunle Precious oreoluwa 
-### 🚀 AI | Machine Learning | Data Science | Data Analysis| Software Engineer  
+# Hi there! 👋 I'm Adekunle Precious Oreoluwa 
+🌱 I’m a Data Scientist with experience in building intelligent systems across AI, data, and software engineering. Passionate about solving real-world problems with technology.
 
 ## 🚀 What I Do
 - 🧠 Machine Learning & AI (e.g., Computer Vision, NLP, Generative AI)
@@ -62,26 +62,12 @@
   <img src="https://img.shields.io/badge/Flask_REST_API-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
-## 🛠️ Tech Stack & Tools
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&margin-w=15&margin-h=15" />
+</p>
 
-### **Programming & AI Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-2A2A2A?style=for-the-badge&logo=langchain&logoColor=white)  
 
-### **Model Deployment & Cloud**
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)  
-
----
 
 ## 📊 GitHub Stats & Contributions
 
@@ -89,11 +75,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Precious-EEE&layout=compact&theme=dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Precious-EEE&show_icons=true&theme=dark)  
 
----
+
 
 ## 💡 How to Connect
 📩 **Email:** preciousadekunle33@email.com  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/adekunleprecious/](#)  
+🌍 Portfolio: [your-portfolio-site.com](https://your-portfolio-site.com)
 
 
 
