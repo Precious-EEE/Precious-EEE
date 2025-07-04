@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://www.canva.com/design/DAGdaD38u5s/tc1PPrX_0SW_Q3e9CThJLA/edit" alt="Welcome Banner" />
+</p>
 # Hi there! 👋 I'm Adekunle Precious Oreoluwa 
 🌱 I’m a Data Scientist with experience in building intelligent systems across AI, data, and software engineering. Passionate about solving real-world problems with technology.
 
@@ -64,7 +67,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Precious-EEE&theme=radical&margin-w=15&margin-h=15" />
 </p>
 
 
