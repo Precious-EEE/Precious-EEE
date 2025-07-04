@@ -1,18 +1,11 @@
 # Hi there! 👋 I'm Adekunle Precious oreoluwa 
-## 🚀 AI | Machine Learning | Data Science Engineer  
+## 🚀 AI | Machine Learning | Data Science | Data Analysis| Software Engineer  
 
-Welcome to my GitHub profile! I'm an AI/ML Engineer with expertise in developing, deploying, and optimizing intelligent systems for **computer vision, NLP, predictive analytics, and AI-powered automation.** Passionate about leveraging AI for **business intelligence, automation, and problem-solving** across various industries.
-
----
-
-## 🔬 About Me
-- 🎓 **B.Sc. in Electronic and Electrical Engineering**
-- 🧠 **4+ years** of experience in AI, ML, and Data Science
-- 🏆 Specializing in **Machine Learning, Deep Learning, NLP, and Computer Vision**
-- 💡 Passionate about building **real-world AI solutions** that drive business value
-- 🤝 Open to **collaborations, research, and AI consulting opportunities**
-
----
+## 🚀 What I Do
+- 🧠 Machine Learning & AI (e.g., Computer Vision, NLP, Generative AI)
+- 📊 Data Analysis & Visualization (Power BI, SQL, Tableau)
+- 🛠️ Fullstack Projects (React, Node.js, Flask)
+- 🤖 Chatbots & Automation (OpenAI, Dialogflow, LangChain)
 
 ## 🛠️ Tech Stack & Tools
 
