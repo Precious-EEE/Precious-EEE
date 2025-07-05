@@ -84,7 +84,7 @@
 ## 💡 How to Connect
 📩 **Email:** preciousadekunle33@email.com  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/adekunleprecious/](#)  
-🌍 Portfolio: [your-portfolio-site.com](https://your-portfolio-site.com)
+🌍 Portfolio: [https://glowing-sprite-dc6522.netlify.app/](#)
 
 
 
